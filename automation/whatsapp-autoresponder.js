@@ -12,9 +12,9 @@ const BUSINESS_CONFIG = {
   location: "Baby Nagar, Velachery, Chennai",
   phone: "+919876543210",
   email: "info@pleatperfectchennai.com",
-  workingHours: "Monday-Saturday: 9 AM - 7 PM, Sunday: 10 AM - 4 PM",
+  workingHours: "Monday-Saturday: 9 AM - 7 PM, Sunday: 9 AM - 6 PM",
   services: {
-    basic: "Basic Pleating - ₹250",
+    basic: "Basic Pleating - ₹200",
     premium: "Premium Pleating - ₹400", 
     bridal: "Bridal Special - ₹650"
   }
@@ -129,7 +129,7 @@ Have a great day! 🌸`,
 
   pricing: `💰 Transparent Pricing:
 
-🔸 Basic Pleating: ₹250
+🔸 Basic Pleating: ₹200
    Perfect for daily wear
 
 🔸 Premium Pleating: ₹400 ⭐ Most Popular

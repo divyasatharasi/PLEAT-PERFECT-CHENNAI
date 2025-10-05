@@ -12,9 +12,9 @@
 3. **Account Details**:
    - First Name: Pleat Perfect
    - Last Name: Chennai
-   - Password: Use strong password with mix of letters, numbers, symbols
+   - Password: Use strong password with mix of letters, numbers, symbols - Mlpnko@098
    - Phone: Your mobile number for verification
-   - Recovery Email: Your personal email
+   - Recovery Email: Your personal email - quickwebsitecreators@gmail.com
 
 4. **Enable 2-Factor Authentication immediately**
 
@@ -25,9 +25,9 @@
 2. Click "Manage now"
 3. **Business Information**:
    - **Business Name**: Pleat Perfect Chennai
-   - **Category**: Clothing alteration service / Tailor
+   - **Category**: Clothing alteration service / Tailor - Saree pre-pleating service 
    - **Address**: [Your workshop address in Baby Nagar, Velachery]
-   - **Phone**: Your business contact number
+   - **Phone**: Your business contact number - 85208 64223
    - **Website**: (add later when ready)
 
 4. **Verification Process**:
